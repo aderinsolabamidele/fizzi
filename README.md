@@ -124,7 +124,5 @@ Fizzi is an innovative web application showcasing an interactive landing page wi
 
 ### Installation
 ```bash
-git clone https://github.com/bsilvers64/Fizzi.git
-cd fizzi
 npm install
 npm run dev
