@@ -115,10 +115,6 @@ Fizzi is an innovative web application showcasing an interactive landing page wi
 - Lazy loading with React Suspense
 - Performance monitoring with r3f-perf
 
-## Acknowledgments
-
-- [Alex Trost](https://github.com/a-trost)
-- [Prismic](https://github.com/prismicio)
 
 ## Getting Started
 
