@@ -12,7 +12,6 @@ Fizzi is an innovative web application showcasing an interactive landing page wi
 
 ### Visit the Website -
 
-[Fizzi-Soda](https://fizzi-utvl.vercel.app)
 
 ### notes and blog -
 [Notion Article](https://marmalade-practice-424.notion.site/Fizzi-landing-page-13d3ca7f759c80c09e90ce2dee9b92f4)
